@@ -1,1 +1,1 @@
-# Statistical_learning_method-
+# Statistical_learning_method
